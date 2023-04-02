@@ -1,6 +1,5 @@
 <h1 align="center"> Testes com CSharp </h1>
 
-
-Licença: Instituto de Tecnologia de Massachusetts (MIT);
-Versão da ferramenta de gerenciamento de dependências, Maven: versão 4.0.1;
-Data da última versão do projeto: agosto.
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
