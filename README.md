@@ -3,9 +3,10 @@
 > :construction: Projeto em construção :construction:
 
 
-# :hammer: Funcionalidades do projeto
+# :hammer: Funcionalidades do projeto Estacionamento
 
-- `Funcionalidade 1`: descrição da funcionalidade 1
-- `Funcionalidade 2`: descrição da funcionalidade 2
-- `Funcionalidade 2a`: descrição da funcionalidade 2a relacionada à funcionalidade 2
-- `Funcionalidade 3`: descrição da funcionalidade 3
+- `Funcionalidade 1`: Registrar Entrada - Com classes de teste
+- `Funcionalidade 2`: Registrar Saída - Com classes de teste
+- `Funcionalidade 2a`: Exibir Faturamento - Com classes de teste
+- `Funcionalidade 3`: Mostrar Veículos Estacionados - Com classes de teste
+- `Funcionalidade 4 `: Sair do Programa - Com classes de teste
