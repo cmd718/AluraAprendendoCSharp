@@ -19,4 +19,4 @@
 - ``xUnit``
 
 ## 📁 Acesso ao projeto
-Você pode acessar os arquivos do projeto clicando [aqui]([https://github.com/cmd718/TestesCSharp/tree/main/alura.estacionamento-aula03/Alura.Estacionamento.Tests]).
+Você pode acessar os arquivos do projeto clicando [aqui](https://github.com/cmd718/TestesCSharp/tree/main/alura.estacionamento-aula03/Alura.Estacionamento.Tests).
