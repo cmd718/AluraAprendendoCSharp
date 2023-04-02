@@ -1,5 +1,6 @@
 # Resumo do projeto
-Projeto em andamento, visando a prática de testes com a linguagem C# e os conceitos do paradigma de orientação a objetos. :construction: Projeto em construção :construction:
+Projeto em andamento, visando a prática de testes com a linguagem C# e os conceitos do paradigma de orientação a objetos.
+:construction: Projeto em construção :construction:
 
 
 
