@@ -3,7 +3,7 @@
 
 
 
-# :hammer: Funcionalidades do projeto Estacionamento Testes com CSharp
+# :hammer: Funcionalidades do projeto - Testes com CSharp - Gerenciar Estacionamento
 
 - `Funcionalidade 1`: Registrar Entrada  - Com classes de teste
 - `Funcionalidade 2`: Registrar Saída    - Com classes de teste
